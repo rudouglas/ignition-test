@@ -1,0 +1,9 @@
+{
+    "schemaType": "VISUALIZATION",
+    "id": "ignition-test-viz",
+    "displayName": "IgnitionTestViz",
+    "description": "",
+    "configuration": [
+        
+    ]
+}
